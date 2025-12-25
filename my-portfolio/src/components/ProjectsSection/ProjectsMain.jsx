@@ -15,7 +15,7 @@ const projects = [
     align: "right",
     icon: FaReact ,
     icons: RiTailwindCssFill,
-    image: "../../public/Images/AiCom.png",
+    image: "/Images/AiCom.png",
     link: "https://aicomgen.netlify.app/",
   },
   {
@@ -24,7 +24,7 @@ const projects = [
     align: "left",
     icon: FaReact ,
     icons: RiTailwindCssFill,
-    image: "../../public/Images/WorldAtlas.png",
+    image: "/Images/WorldAtlas.png",
     link: "https://worldatlasbysk.netlify.app/",
   },
   {
@@ -33,7 +33,7 @@ const projects = [
     align: "right",
     icon: FaHtml5 ,
     icons: RiTailwindCssFill,
-    image: "../../public/Images/Razorpay.png",
+    image: "/Images/Razorpay.png",
     link: "https://razorpayclonebysk.netlify.app/",
   },
   {
@@ -42,7 +42,7 @@ const projects = [
     align: "left",
     icon: FaHtml5 ,
     icons: IoLogoJavascript,
-    image: "../../public/Images/QRGen.png",
+    image: "/Images/QRGen.png",
     link: "https://qrgeneratorbysk.netlify.app/",
   },
 ]
